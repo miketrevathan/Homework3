@@ -1,0 +1,23 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketrevathan/Homework3.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketrevathan/Homework3/issues"
+  },
+  "homepage": "https://github.com/miketrevathan/Homework3#readme",
+  "description": ""
+}
